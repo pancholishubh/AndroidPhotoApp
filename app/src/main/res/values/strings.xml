@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+
+
+    <!--server response codes-->
+    <string name="https_400_error">Bad Request</string>
+    <string name="http_401_error">Unauthorized access</string>
+    <string name="http_403_error">Forbidden or denied access</string>
+    <string name="http_404_error">Resource Not Found</string>
+    <string name="http_402_error">Payment Required</string>
+    <string name="http_405_error">Method Not Allowed</string>
+    <string name="http_406_error">Not Acceptable</string>
+    <string name="http_408_error">Request Time out</string>
+    <string name="http_409_error">conflict in the request</string>
+    <string name="http_500_error">Internal Server Error</string>
+    <string name="http_501_error">Not Implemented</string>
+    <string name="http_503_error">Service Unavailable</string>
+    <string name="http_522_error">Connection Timed Out</string>
+    <string name="http_520_error">Unknown Error</string>
+    <string name="http_526_error">Invalid SSL Certificate</string>
+    <string name="http_599_error">Network connect timeout error</string>
+    <string name="http_some_other_error">Some error occurred! Please try again later.</string>
+    <string name="validation_internet_connection">Please check internet connection</string>
+    <string name="no_record_found">Search any key word</string>
+    <string name="search_hint">Search..</string>
+
+</resources>
